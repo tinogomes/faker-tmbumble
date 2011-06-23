@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Faker::Internet.ip_v6_address</string>
+	<key>name</key>
+	<string>Faker::Internet.ip_v6_address copy</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>fkipv6</string>
+	<key>uuid</key>
+	<string>A990015E-D7D9-4742-995D-71CFC41B34CC</string>
+</dict>
+</plist>

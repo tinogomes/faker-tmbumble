@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Faker::Internet.paragraph${1:(${0:sentence_count = 3})}</string>
+	<key>name</key>
+	<string>Faker::Lorem.paragraph</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>fkp</string>
+	<key>uuid</key>
+	<string>8C328918-598B-49F9-BF5C-C009A56DF2E8</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Faker::Address.${0:city,city_prefix,city_sufix,country,earth_country,secondary_address,state,us_state,state_abbr,us_state_abbr,street_address,street_name,street_suffix,uk_country,zip_code,zip,postcode,uk_postcode}</string>
+	<key>name</key>
+	<string>Faker::Address...</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>fka</string>
+	<key>uuid</key>
+	<string>4CA428F3-73D9-4AA5-B055-558A21FCCA3E</string>
+</dict>
+</plist>
